@@ -1,0 +1,14 @@
+Body {
+        background-color:#B7814F;}
+        .column1 {
+                float: left;
+                        width:50%;
+                        padding: 15px;
+        }
+                h1 {text-align:center;}
+                p {text-align:center;}
+        h2 {text-align:left;}
+
+#header {
+        color: Blue;
+}
